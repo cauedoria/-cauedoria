@@ -19,3 +19,14 @@
   <img height="50%
 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauedoria&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cauê-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Cauê-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Cauê-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cauê-Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
+  <img align="center" alt="Cauê-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+</div>
+
